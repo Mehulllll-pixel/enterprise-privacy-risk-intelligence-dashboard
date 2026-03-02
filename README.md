@@ -1,43 +1,54 @@
-# Enterprise Privacy Risk Intelligence Dashboard
+# 🔐 Enterprise Privacy Risk Intelligence Dashboard
 
-## Problem Statement
+Enterprise-grade privacy risk assessment simulation aligned with governance and compliance workflows.
 
-Modern enterprises collect large volumes of sensitive data (PII, financial records, HR information). However, many organizations lack structured visibility into privacy risks across their data assets.
+---
 
-This project simulates a privacy risk intelligence framework that enables:
+## 📌 Problem Statement
 
-- Structured enterprise data inventory management
-- Quantitative risk scoring using Impact × Likelihood model
-- Risk level classification (Low, Medium, High, Critical)
-- Executive-level KPI monitoring
-- GDPR-aligned governance mapping
+Organizations handle sensitive PII, financial, and HR data but often lack structured visibility into privacy risks across assets.  
+This project simulates an enterprise privacy governance workflow with quantitative risk scoring and executive visualization.
 
-## Solution Overview
+---
 
-The system models enterprise privacy workflows by:
+## 🚀 Key Features
 
-1. Maintaining a centralized data asset registry
-2. Logging privacy risks against specific assets
-3. Automatically calculating risk scores
-4. Visualizing risk distribution and heatmaps
-5. Generating downloadable governance reports
-
-## Key Features
-
-- Interactive Streamlit Dashboard
-- Executive KPI Metrics
-- Risk Heatmap Visualization
+- Structured Enterprise Data Inventory
+- Impact × Likelihood Risk Scoring Model
+- Automated Risk Classification (Low, High, Critical)
+- Executive KPI Dashboard
+- Risk Distribution Analytics
+- Impact vs Likelihood Heatmap
 - Downloadable Risk Register
-- GDPR Principle Mapping
 
-## Technology Stack
+---
+
+## 📊 Dashboard Preview
+
+### Risk Overview & Heatmap
+![Dashboard Overview](assets/dashboard_overview.png)
+
+---
+
+### Risk Register
+![Risk Register](assets/risk_register.png)
+
+---
+
+### Enterprise Data Inventory
+![Data Inventory](assets/data_inventory.png)
+
+---
+
+## 🛠 Tech Stack
 
 - Python
-- Pandas
 - Streamlit
+- Pandas
 - Matplotlib / Seaborn
-- CSV-based structured modeling
 
-## Objective
+---
 
-To demonstrate the application of technical automation in data governance and privacy risk analytics within enterprise environments.
+## 🎯 Objective
+
+To demonstrate structured risk quantification and governance automation for enterprise privacy environments.
