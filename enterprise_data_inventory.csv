@@ -1,0 +1,6 @@
+Data_Asset,Data_Type,Category,Sensitivity_Level,Storage_Location,Access_Control,Encryption_Status
+Customer_KYC,Aadhaar_Number,Sensitive_PII,5,SQL_Database,Restricted,Yes
+Customer_Email,Email_Address,PII,3,CRM_System,Role-Based,Yes
+Transaction_History,Financial_Data,Financial,5,Cloud_Server,Limited,Yes
+Employee_Records,HR_Data,Confidential,4,HR_System,Restricted,Yes
+Internal_Policies,Documents,Confidential,3,AI_Index,Controlled,No
