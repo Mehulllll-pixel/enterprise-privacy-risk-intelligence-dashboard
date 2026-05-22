@@ -52,3 +52,7 @@ This project simulates an enterprise privacy governance workflow with quantitati
 ## 🎯 Objective
 
 To demonstrate structured risk quantification and governance automation for enterprise privacy environments.
+
+
+
+Im gonna improve all my projects from today
