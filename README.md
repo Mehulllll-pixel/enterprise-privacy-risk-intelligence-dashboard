@@ -1,4 +1,4 @@
-# 🔐 Enterprise Privacy Risk Intelligence Platform
+#  Enterprise Privacy Risk Intelligence Platform
 
 > Enterprise-grade full-stack platform for privacy risk assessment, governance automation, and compliance reporting.
 
