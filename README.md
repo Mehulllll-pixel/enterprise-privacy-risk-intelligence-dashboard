@@ -2,8 +2,6 @@
 
 > Enterprise-grade full-stack platform for privacy risk assessment, governance automation, and compliance reporting.
 
-> **Live Demo:** Coming Soon
-
 ---
 
 ## Overview
